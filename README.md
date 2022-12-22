@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mingdong23
 - 👀 I’m interested in Brain-machine Interface and Robotics.
 - 🌱 Second-year PhD candidate
-- 💞️ I’m think about my future research areas.
+- 💞️ I’m thinking about my future research areas.
 - 📫 Feel free to connect me (mlidr@connect.ust.hk)
 
 <!---
